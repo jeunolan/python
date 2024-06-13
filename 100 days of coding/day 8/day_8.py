@@ -62,6 +62,7 @@ def decode():
     num_shift = int(input("Type the shift number."))
 
 print(logo)
+alphabet = ['a','b','c','d']
 
 end_of_program = False #initial variable assignment
 #conduct a while statement that will continue the program until the player types no into the input box
